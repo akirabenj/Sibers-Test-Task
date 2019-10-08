@@ -1,0 +1,8 @@
+D:\RNJIN\Test_in_sibers\SibersTest\SibersTest.Data\bin\Debug\netcoreapp3.0\SibersTest.Data.deps.json
+D:\RNJIN\Test_in_sibers\SibersTest\SibersTest.Data\bin\Debug\netcoreapp3.0\SibersTest.Data.dll
+D:\RNJIN\Test_in_sibers\SibersTest\SibersTest.Data\obj\Debug\netcoreapp3.0\SibersTest.Data.csprojAssemblyReference.cache
+D:\RNJIN\Test_in_sibers\SibersTest\SibersTest.Data\obj\Debug\netcoreapp3.0\SibersTest.Data.AssemblyInfoInputs.cache
+D:\RNJIN\Test_in_sibers\SibersTest\SibersTest.Data\obj\Debug\netcoreapp3.0\SibersTest.Data.AssemblyInfo.cs
+D:\RNJIN\Test_in_sibers\SibersTest\SibersTest.Data\bin\Debug\netcoreapp3.0\SibersTest.Data.pdb
+D:\RNJIN\Test_in_sibers\SibersTest\SibersTest.Data\obj\Debug\netcoreapp3.0\SibersTest.Data.dll
+D:\RNJIN\Test_in_sibers\SibersTest\SibersTest.Data\obj\Debug\netcoreapp3.0\SibersTest.Data.pdb
